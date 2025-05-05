@@ -17,6 +17,9 @@
 ### Data
 Raw data acquired from [Kaggle - Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
 
+### Report
+Report document is stored at (https://studentutsedu-my.sharepoint.com/:w:/g/personal/kimchhorng_pheng_student_uts_edu_au/EZlZRzpC66RBoJx5oCWqHB8BJKhC3bBZlXjccTCmzDFMiQ?e=E4PaPR)
+
 ### Explore
 - How large is our dataset?
 - Are there any null values?
