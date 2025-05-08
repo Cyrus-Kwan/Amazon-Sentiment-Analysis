@@ -1,16 +1,16 @@
-python -m pip install ipykernel==6.29.5
 python -m pip install pandas==2.2.3
+python -m pip install numpy==1.26.4
 python -m pip install autocuda==0.16
 python -m pip install boostaug==2.3.5
 python -m pip install findfile==2.0.1
-python -m pip install gitpython==3.1.44
+python -m pip install gitcall python==3.1.44
 python -m pip install metric-visualizer==0.9.17
 python -m pip install networkx==3.2.1
 python -m pip install protobuf==3.20.3
 python -m pip install pytorch-warmup==0.2.0
 python -m pip install sentencepiece==0.2.0
 python -m pip install seqeval==1.2.2
-python -m pip install spacy=2.3.5
+python -m pip install spacy==2.3.5
 python -m pip install termcolor==3.1.0
 python -m pip install torch==2.7.0
 python -m pip install tqdm==4.67.1
