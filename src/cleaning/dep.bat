@@ -18,4 +18,5 @@ python -m pip install transformers==4.51.3
 python -m pip install typing-extensions==4.13.2
 python -m pip install update-checker==0.18.0
 python -m pip install tf-keras==2.19.0
+python -m pip install nltk==3.9.1
 python -m spacy download en_core_web_sm
