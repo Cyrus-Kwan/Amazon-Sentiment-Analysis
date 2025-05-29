@@ -1,5 +1,8 @@
 database.sqlite
 hashes.txt
 Reviews.csv
+lamentize.csv
 reviews_multiple_aspect.csv
 reviews_single_aspect.csv
+checkpoints
+Aspect Term Extraction and Polarity Classification.FAST_LCF_ATEPC.result.json
