@@ -3,3 +3,5 @@ hashes.txt
 Reviews.csv
 reviews_multiple_aspect.csv
 reviews_single_aspect.csv
+ATEPC_MULTILINGUAL_CHECKPOINT
+src/cleaning/Aspect Term Extraction and Polarity Classification.FAST_LCF_ATEPC.result.json
